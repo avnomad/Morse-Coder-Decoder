@@ -2,3 +2,7 @@ syntax: regexp
 Debug/*
 Release/*
 ipch/*
+syntax: glob
+Morse Coder-Decoder.opensdf
+Morse Coder-Decoder.sdf
+Morse Coder-Decoder.suo
