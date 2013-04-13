@@ -1,4 +1,4 @@
-//	Copyright (C) 2008, 2012 Vaptistis Anogeianakis <el05208@mail.ntua.gr>
+//	Copyright (C) 2008, 2012 Vaptistis Anogeianakis <nomad@cornercase.gr>
 /*
  *	This file is part of Morse Coder-Decoder.
  *
